@@ -24,6 +24,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 <details>
 <summary>and more...</summary>
 
+- Special
 - flag-shop
 </details>
 
@@ -36,13 +37,30 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 
 ## OverTheWire
 These are series of problems based on a machine which involve various difficulties and techniques, which are sometimes easy or sometime insanely hard. These are the problem's solutions of some of them-
-### 1. bandit
-### 2. natas
+- bandit
+- natas
+
+<details>
+<summary>more Over...</summary>
+
+- behemoth
+</details>
 
 # Commit Summary
 The commits have the specific patter(except initial 2-3) -
 ```markdown
 website:category:name_of_ctf
-miscellania:comments in the desciption of commit (optional)
+miscellania:'comments in the desciption of commit' (optional)
 ```
-The category will be according to me(unless specified). For some of the ctf's involving hacking a machine which provides multiple categories, then `category=multi` and `miscellenia` will contain the types used.
+The category will be according to me(unless specified). For some of the ctf's involving hacking a machine which provides multiple categories, then `category=multi` and `miscellenia` will contain the types used. The short forms used for Categories are-
+```
+General Skill - GenSk
+Web Exploitation - WebExp
+Binary Exploitation - BinExp
+Reverse Engineering - RevEng
+Forensics - Frnsic
+Cryptography & Cipher - Crypto
+(multi/un)categorizes - multi
+```
+
+## THE END
