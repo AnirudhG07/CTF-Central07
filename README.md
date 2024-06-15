@@ -11,9 +11,10 @@ These are various CTF writeup's I do for interesting and hard problems.
      - [OverTheWire](#overthewire)
          - [Bandit](#bandit)
          - [Natas](#natas)
+3. [Commit Summary](#commit-summary)
 
 # Resources
-Some of the resources I use for CTF's.
+Some of the resources I use for CTF's. These also contains tips and tricks which are really helpful for CTF's. This includes SQLi, Terminal Command tricks, etc.
 
 # Writeup's for CTF
 ## PicoCTF
@@ -35,5 +36,13 @@ Some of the resources I use for CTF's.
 
 ## OverTheWire
 These are series of problems based on a machine which involve various difficulties and techniques, which are sometimes easy or sometime insanely hard. These are the problem's solutions of some of them-
-### bandit
-### natas
+### 1. bandit
+### 2. natas
+
+# Commit Summary
+The commits have the specific patter(except initial 2-3) -
+```markdown
+website:category:name_of_ctf
+miscellania:comments in the desciption of commit (optional)
+```
+The category will be according to me(unless specified). For some of the ctf's involving hacking a machine which provides multiple categories, then `category=multi` and `miscellenia` will contain the types used.
