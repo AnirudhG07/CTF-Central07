@@ -16,3 +16,4 @@ leviathan is a wargame from OverTheWire based on Web Exploitatioin. The link is 
 * leviathan3 - f0n8h2iWLP
 * leviathan4 - WG1egElCvO
 * leviathan5 - 0dyxT7F4QD
+* leviathan6 - szo7HDB88w
