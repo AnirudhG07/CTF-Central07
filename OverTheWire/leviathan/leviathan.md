@@ -1,5 +1,5 @@
 # leviathan
-leviathan is a wargame from OverTheWire based on Web Exploitatioin. The link is https://overthewire.org/wargames/leviathan/
+leviathan is a wargame from OverTheWire based on Terminal Tricks and Binary Exploitation. The link is https://overthewire.org/wargames/leviathan/
 
 # Rules
 1. Password for leviathan0 is leviathan0
