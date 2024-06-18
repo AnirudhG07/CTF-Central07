@@ -34,6 +34,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 ### Web Exploitation
 ### Forensics 
 - File Types
+- MSB
 
 <details>
 <summary>and more...</summary>
