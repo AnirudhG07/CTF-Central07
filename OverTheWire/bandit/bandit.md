@@ -24,6 +24,10 @@ bandit is a wargame from OverTheWire based on Basics of linux, Terminal tricks, 
 * bandit11 - dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 * bandit12 - 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 * bandit13 - FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
-* bandit14 -
-* bandit15 -
+* bandit14 - MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+* bandit15 - 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+* bandit16 - EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+* bandit17 - x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+* bandit18 - cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+* bandit19 - 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
 
