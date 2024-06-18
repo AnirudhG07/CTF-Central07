@@ -35,6 +35,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 ### Forensics 
 - File Types
 - MSB
+- c0rrupt
 
 <details>
 <summary>and more...</summary>
