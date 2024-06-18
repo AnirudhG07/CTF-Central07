@@ -49,6 +49,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 - PcapPoisoning
 - So Meta
 - What Lies Within
+- Sleuthkit Apperentice
 </details>
 
 ### Miscellania
