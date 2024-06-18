@@ -47,6 +47,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 - Secrets of the Polygot
 - PcapPoisoning
 - So Meta
+- What Lies Within
 </details>
 
 ### Miscellania
