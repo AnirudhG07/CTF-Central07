@@ -33,6 +33,22 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 ### Binary Exploitation
 ### Web Exploitation
 ### Forensics 
+- File Types
+
+<details>
+<summary>and more...</summary>
+
+- Lookey here
+- Redaction gone wrong
+- hideme
+- Sleuthkit Intro
+- Disk, disk, sleuth!
+- Disk, disk, sleuth! II
+- Secrets of the Polygot
+- PcapPoisoning
+- So Meta
+</details>
+
 ### Miscellania
 
 ## OverTheWire
