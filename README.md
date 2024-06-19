@@ -31,9 +31,16 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 ### Cryptography & Ciphers
 ### Reverse Engineering
 ### Binary Exploitation
+
+<details>
+<summary>and more...</summary>
+
+- buffer overflow 0
+</details>
+
 ### Web Exploitation
 ### Forensics 
-- File Types
+- Operation Oni
 - WhitePages
 - c0rrupt
 
@@ -41,6 +48,7 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 <summary>and more...</summary>
 
 - MSB
+- File Types
 - Lookey here
 - Redaction gone wrong
 - hideme
