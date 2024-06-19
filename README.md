@@ -34,12 +34,13 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 ### Web Exploitation
 ### Forensics 
 - File Types
-- MSB
+- WhitePages
 - c0rrupt
 
 <details>
 <summary>and more...</summary>
 
+- MSB
 - Lookey here
 - Redaction gone wrong
 - hideme
@@ -51,6 +52,9 @@ Some of the resources I use for CTF's. These also contains tips and tricks which
 - So Meta
 - What Lies Within
 - Sleuthkit Apperentice
+- like1000
+- shark on wire 1
+- St3g0
 </details>
 
 ### Miscellania
