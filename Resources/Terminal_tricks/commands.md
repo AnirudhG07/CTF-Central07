@@ -20,6 +20,7 @@ This a list of various Things i can try with some commands which will come in Ha
 * `echo $(awk '{print $1}' file.txt)`  # Prints the first field of each line in file.txt
 * `ARRAY=($(cat file.txt)); echo ${ARRAY[0]}`  # Prints the first element of the array
 * `echo $(<file.txt)`  # for printing file contents
+* `echo /**/*` or `echo */**`, etc, # for listing out files from anywhere 
 
 ### Encoding Decoding
 
